@@ -6,3 +6,7 @@ First exercise, original code with errors can be found in: opdracht_php_fix_erro
 index.php contains the fixed and working code.
 
 # 2.math
+second php exercise: create a table of 10 rows, and 3 columns, using loops. the first column must contain the numbers 1-10. the rows in the second column must have the numbers ^2, and the rows in the third column must show the the numbers 1-10 ^3.
+Exercise details can be found in PHP opdracht wiskundetabel.pdf.
+math.php contains the code.
+
