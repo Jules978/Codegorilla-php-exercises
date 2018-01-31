@@ -10,3 +10,6 @@ second php exercise: create a table of 10 rows, and 3 columns, using loops. the 
 Exercise details can be found in PHP opdracht wiskundetabel.pdf.
 math.php contains the code.
 
+# 3.julycheck
+third php exercise: check the current month and display text based on that month. full description is found in julycheck.pdf. My code can be found in julycheck.php.
+
